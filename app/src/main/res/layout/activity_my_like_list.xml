@@ -25,6 +25,10 @@
         app:lottie_autoPlay="true">
     </com.airbnb.lottie.LottieAnimationView>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
     <LinearLayout
         android:weightSum="2"
         android:orientation="vertical"

@@ -1,4 +1,4 @@
-<center><img src="/images/solrae.png" width="100%" height="100%"></center>
+<center><img src="https://github.com/WjLeeeee/meeting/assets/127173772/322d7a49-b187-4dc9-bad3-15f528ecd1ea" width="100%" height="100%"></center>
 
 # 이앱설레 - 동계 프로젝트
  `팀원` : 석승민, 이우진, 이창세
@@ -11,7 +11,7 @@
 
 ## 프로젝트 소개
 
-이앱설레는 동계 프로젝트로, 메인 슬라이딩 화면, 회원가입, 매칭 로직, 푸시 메시지 등 다양한 기능을 포함한 안드로이드 어플리케이션입니다. 10주 동안의 개발 기간 동안 각 주차별로 구현된 기능들이 담겨있습니다.
+이앱설레는 필수 회원가입 진행후 이성의 사진을 보고 호감을 느낀다면 해당 이성에게 내 마음을 전달할 수 있는 앱입니다. 만약 상대방도 나에게 긍정의 표시를 날려준다면 서로 채팅으로 연결시켜주는 데이팅 앱 입니다.
 
 ## 개발툴 / 사용언어
 
@@ -108,23 +108,24 @@
 - 테스트 작업 및 버그 수정
 
 # 스플래시 화면, 인트로 화면, 스와이프 화면
-<img src="/images/splash.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;
-<img src="/images/intro.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;
-<img src="/images/mainActivity.png" width="30%" height="30%">
+<img src="https://github.com/WjLeeeee/meeting/assets/127173772/1c806ccf-016c-49b6-8958-26441bdeeaad" width="70%" height="30%">&nbsp;&nbsp;&nbsp;
 
 # 회원 가입화면, 로그인 화면, 마이페이지 화면
-<img src="/images/join.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;
-<img src="/images/login.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;
-<img src="/images/mypage.png" width="30%" height="30%">
+<img src="https://github.com/WjLeeeee/meeting/assets/127173772/a4fad353-103a-40d3-9eea-464827f231a3" width="70%" height="30%">&nbsp;&nbsp;&nbsp;
+
 
 # 메인 화면, 호감 리스트 화면, 쪽지 리스트 화면
-<img src="/images/setting.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;
-<img src="/images/hogam.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;
-<img src="/images/letter.png" width="30%" height="30%">
+<img src="https://github.com/WjLeeeee/meeting/assets/127173772/7935f67b-b51c-43ad-b007-71dfc6a6cf20" width="70%" height="30%">&nbsp;&nbsp;&nbsp;
 
 # 메시지 보내기 화면, 채팅창 화면, 채팅 화면
-<img src="/images/mylistlistdialog.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;
-<img src="/images/mylikelistmsg.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;
-<img src="/images/messagechat.png" width="30%" height="30%">
+<img src="https://github.com/WjLeeeee/meeting/assets/127173772/0513bf75-1ad7-4518-afdf-54179d3f2134" width="70%" height="30%">&nbsp;&nbsp;&nbsp;
 
 # 마무리
+----------------------------------
+3학년 2학기 안드로이드 프로그래밍 수업을 듣고, 앱개발에 관심이 생겼다. 다른 전공과는 다르게 흥미있고 집중이 됐고, 이때 내가 앱 개발자가 되어야겠구나 생각하게되었다. 종강을하고, 겨울방학에 관심사가 같은친구 두명과 함께 기존에 사용하던 JAVA와는 다른 Kotlin으로 동계 프로젝트를 진행하게 되었다.
+강의를 통해서 클론코딩을 진행하고, 화면은 입맛대로 꾸며보았다. 또한 팀원들과의 의견을 나눈후 수정해볼만한 내용은 수정을 했는데, 기존 쪽지 시스템 대신 채팅방 시스템을 구현하기로 하고 구글링 및 의견 공유를 통해서 채팅창 기능을 성공적으로 구현했습니다.
+개발과정에서 채팅 시스템 구현중 메세지 보내는 상대와 나의 이름이 거꾸로 나오는 현상을 고치고 메세지를 보낸 시간표시기능을 추가로 구현하며 알람을 읽었을때 1이 사라지게 하는 기능까지 구현을 해보고싶었지만 구현하지 못했던 점이 아쉬웠습니다.
+
+회원가입, 로그인, 로그아웃, 호감 매칭, 쪽지 시스템, 채팅방 시스템, 내 정보 보기 등 다양한 기능을 직접 구현하면서 프로그래밍에 대한 흥미를 높일 수 있었습니다.
+프로젝트 진행을 통해 얻은 경험은 안드로이드 앱 개발에 대한 실전적인 능력 향상뿐만 아니라 팀 협업 및 문제 해결 능력도 향상시킬 수 있는 기회가 되었습니다.
+이번 프로젝트를 통해 배운 것들을 향후의 개발 경험에도 적용하여 더욱 성장해 나가고 싶습니다.
